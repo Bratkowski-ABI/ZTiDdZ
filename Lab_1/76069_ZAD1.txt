@@ -1,0 +1,20 @@
+Grupy:
+• Inne niż biznesowe
+• Wewnętrzne 
+• Publiczne
+• Ogólne
+• Poufne
+
+Dane:
+I Grupa danych:
+Imię i nazwisko				-> Poufne
+ID Pracownika				-> Wewnętrzne  
+Dane biometryczne np. odcisk palca	-> Poufne	
+Numer karty debetowej			-> Poufne
+
+
+II Grupa danych:
+Imię i nazwisko				-> Poufne
+Nazwa stanowiska			-> Ogólne
+Zawód					-> Ogólne
+Historia choroby			-> Poufne 
